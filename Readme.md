@@ -1,2 +1,3 @@
 Hello again
-create branch
+create branch/n\n
+This is new branch
